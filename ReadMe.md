@@ -1,4 +1,4 @@
-# XCruise | Landing Page with Mobile Responsive
+# XCruise | Landing Page with Mobile Responsive | Website Live : https://nizam3700.github.io/XCruise/
 
 - XCruise is a responsive static website built from scratch using HTML and CSS to provide a seamless and visually appealing experience for users looking to book cruise vacations. The project involved developing a responsive and interactive website that showcases various cruise destinations and provides essential information about XCruise offerings.
 
@@ -24,4 +24,5 @@
 
 ### Skills used
 HTML5, Semantic HTML, CSS, CSS Positioning, Media Queries, CSS Flexbox, CSS Grids, Responsive Design
+
 
